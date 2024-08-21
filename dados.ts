@@ -1,4 +1,4 @@
-let cinema: string =  "Cinepolis";
+let cinema: string = "Cinepolis";
 let sala: number = 22;
 let cinema_aberto: boolean = true;
 
